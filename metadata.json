@@ -1,0 +1,7 @@
+{
+  "name": "MedMeal - Hospital Food Service Management",
+  "description": "A comprehensive hospital meal ordering and nutritional management system featuring role-based access for patients, doctors, kitchen staff, and admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
